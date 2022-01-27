@@ -11,6 +11,10 @@
 <br><br>
 
 <h1 > 🔢 Version:  1.0.7 </h1>
+
+- Access [GitHub](https://github.com/richardMadrigar/ID-UNIQUE-PROTOCOL). 
+- Access [NPM](https://www.npmjs.com/package/id-unique-protocol). 
+
 <br>
 
 
